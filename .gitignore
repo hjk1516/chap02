@@ -8,6 +8,8 @@ target/
 .project
 .settings
 .springBeans
+.cache-main
+.cache-tests
 
 ### IntelliJ IDEA ###
 .idea
@@ -22,3 +24,5 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+
