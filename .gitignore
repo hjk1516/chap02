@@ -8,6 +8,8 @@ target/
 .project
 .settings
 .springBeans
+.cache-main
+.cache-tests
 
 ### IntelliJ IDEA ###
 .idea
@@ -23,7 +25,10 @@ dist/
 nbdist/
 .nb-gradle/
 
+<<<<<<< HEAD
 ### cache ###
 .cache-main
 .cache-tests
+=======
+>>>>>>> refs/remotes/origin/master
 
